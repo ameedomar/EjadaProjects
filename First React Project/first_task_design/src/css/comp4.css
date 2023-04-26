@@ -1,0 +1,113 @@
+.parent4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 180px;
+}
+.address4{
+    width: 360px;
+    padding-top: 0px;
+}
+.left-side{
+    padding-top: 0px;
+}
+.title4{
+    font-family: DM Serif Display;
+    width: 75%;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    
+}
+.description4{
+    width: 350px;
+    padding: 22px 0;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 16px;
+    line-height: 140%;
+    
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #4D5053;
+}
+.callSection{
+    display: flex;
+    flex-direction: row;
+}
+.callVector{
+    width: 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.phoneNumber{
+    margin-top: 35px;
+    width: 141px;
+    height: 4px;
+    
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 80%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #4D5053;
+
+}
+.callUs{
+    width: 169px;
+    height: 4px;
+    
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 70%;
+   
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #4D5053;
+}
+.btn{
+    color: whitesmoke;
+    border-style: groove;
+    margin-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+
+    gap: 5px;
+
+    width: 170px;
+    height: 45px;
+    background: #292F36;
+    box-shadow: 0px 10px 20px rgba(192, 192, 192, 0.35);
+    border-radius: 14px;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+.comp4Img{
+    width: 350px;
+    height: 440px;
+    border-top-right-radius: 180px;
+    border-bottom-left-radius: 80px ;
+}
+.right-side{
+    margin-left: 30px;
+}
